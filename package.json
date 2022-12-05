@@ -1,0 +1,13 @@
+{
+  "name": "argoCD-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.perso.com:mBourges/argoCD-app.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
